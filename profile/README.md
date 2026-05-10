@@ -70,7 +70,7 @@ We treat client engagements as commissions — not tickets. You bring the vision
 
 To discuss a project:
 
-- 🌐 **Website:** [nuitlabs.com](https://nuit.lol)
+- 🌐 **Website:** [nuit.lol](https://nuit.lol)
 - 📩 **Inquiries:** contact via the website
 - 🏢 **Social:** [@nuitlabs](https://instagram.com/nuitlabs)
 
