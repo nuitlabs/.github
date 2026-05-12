@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nuitlabs/.github/refs/heads/main/og-image.png" alt="Nuit Labs Logo" />
+<img src="https://raw.githubusercontent.com/nuitlabs/.github/refs/heads/main/og-image.jpg" alt="Nuit Labs Logo" />
 
 <br/>
 <br/>
